@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdallah Ismail</h1>
+<h1 align="center">Hi 👋, I'm Abdallah ismail</h1>
 <h3 align="center">A Motivated Junior iOS Developer from Egypt</h3>
 
 - 🔭 I’m currently working on [abu-dawood-store](https://github.com/ITI-Members-iOS-Projects/abu-dawood-store)
 
-- 🌱 I’m currently learning **Combine , clean Architecture**
+- 🌱 I’m currently learning **Combine , clean Architecture in iOS**
 
 - 📫 How to reach me **abdallahismail2277@gmail.com**
 
